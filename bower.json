@@ -1,0 +1,6 @@
+{
+  "name": "re-coder",
+  "dependencies": {
+    "riot": "^2.6.3"
+  }
+}
